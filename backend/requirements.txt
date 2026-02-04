@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+qdrant-client
+sentence-transformers
+ollama
+pypdf
+pydantic
+torch --index-url https://download.pytorch.org/whl/cpu
